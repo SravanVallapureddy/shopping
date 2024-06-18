@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sharan/static/css/main.ff02f4b5.css",
+    "main.js": "/sharan/static/js/main.659a339b.js",
+    "static/js/453.f14df32f.chunk.js": "/sharan/static/js/453.f14df32f.chunk.js",
+    "index.html": "/sharan/index.html",
+    "main.ff02f4b5.css.map": "/sharan/static/css/main.ff02f4b5.css.map",
+    "main.659a339b.js.map": "/sharan/static/js/main.659a339b.js.map",
+    "453.f14df32f.chunk.js.map": "/sharan/static/js/453.f14df32f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff02f4b5.css",
+    "static/js/main.659a339b.js"
+  ]
+}
